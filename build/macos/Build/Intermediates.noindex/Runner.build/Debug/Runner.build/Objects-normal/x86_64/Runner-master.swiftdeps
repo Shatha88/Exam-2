@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "482901c568a9d2ebb13d3e8002590af5a9211d55e3ca20cadd640cdd2ad1bb3d"
+build_start_time: [1686489670, 311329000]
+build_end_time: [1686489682, 619470000]
+inputs:
+  "/Users/hyang-gi/Dart/Flutter/exam/Exam-2/macos/Flutter/GeneratedPluginRegistrant.swift": [1686489646, 655932231]
+  "/Users/hyang-gi/Dart/Flutter/exam/Exam-2/macos/Runner/AppDelegate.swift": [1684953162, 0]
+  "/Users/hyang-gi/Dart/Flutter/exam/Exam-2/macos/Runner/MainFlutterWindow.swift": [1684953162, 0]

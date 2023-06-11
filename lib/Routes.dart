@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 Map<String, WidgetBuilder> Routes() {
   return {
     '/home': (context) => const MainPage(),
-    // '/itemView': (context) => const ProductDetails(),
+    // '/pickup': (context) => const ProductDetails(),
     // '/cart': (context) => const CartPage(cartData: [],),
   };
   

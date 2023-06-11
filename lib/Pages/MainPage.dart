@@ -1,5 +1,7 @@
 // ignore_for_file: file_names
 
+import 'package:exam/Pages/OrdersPage.dart';
+import 'package:exam/Pages/ProfilePage.dart';
 import 'package:exam/componants/MainPage/MainPageContent.dart';
 import 'package:flutter/material.dart';
 
@@ -14,12 +16,8 @@ class _MainPageState extends State<MainPage> {
   int _selectedIndex = 0;
   final List<Widget> _pages = <Widget>[
     const MainPageContent(),
-    const Text(
-      'Index 1: Business',
-    ),
-    const Text(
-      'Index 2: School',
-    ),
+    const OrdersPage(),
+    const ProfilePage(),
   ];
 
   void _onItemTapped(int index) {
